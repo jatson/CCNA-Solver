@@ -1,0 +1,756 @@
+    
+
+    [2014.11.22. 18:38:56] [INIT][INFO]: Connected to database.
+    [2014.11.22. 18:40:08] [CLOSE] [INFO]: MainWindow closed.
+    
+
+    [2014.11.22. 18:47:55] [INIT][INFO]: Connected to database.
+    [2014.11.22. 18:48:48] [CLOSE] [INFO]: MainWindow closed.
+    
+
+    [2014.11.22. 18:50:18] [INIT][INFO]: Connected to database.
+    
+
+    [2014.11.22. 18:51:03] [INIT][INFO]: Cannot find existing database file. The program created a new.
+    [2014.11.22. 18:51:03] [INIT][INFO]: Connected to database.
+    [2014.11.22. 18:51:06] [CLOSE] [INFO]: MainWindow closed.
+    
+
+    [2014.11.22. 18:52:00] [INIT][INFO]: Connected to database.
+    [2014.11.22. 18:52:03] [CLOSE] [INFO]: MainWindow closed.
+    
+
+    [2014.11.22. 18:52:08] [INIT][INFO]: Cannot find existing database file. The program created a new.
+    [2014.11.22. 18:52:08] [INIT][INFO]: Connected to database.
+    
+
+    [2014.11.22. 18:55:00] [INIT][INFO]: Connected to database.
+    [2014.11.22. 18:55:03] [CLOSE] [INFO]: MainWindow closed.
+    
+
+    [2014.11.22. 18:55:07] [INIT][INFO]: Cannot find existing database file. The program created a new.
+    [2014.11.22. 18:55:07] [INIT][INFO]: Connected to database.
+    [2014.11.22. 18:55:25] [CLOSE] [INFO]: MainWindow closed.
+    
+
+    [2014.11.22. 18:55:48] [INIT][INFO]: Connected to database.
+    [2014.11.22. 18:56:11] [CLOSE] [INFO]: MainWindow closed.
+    
+
+    [2014.11.22. 18:58:10] [INIT][INFO]: Cannot find existing database file. The program created a new.
+    [2014.11.22. 18:58:10] [INIT][INFO]: Connected to database.
+    SQLite error (1): no such table: question
+    
+
+    [2014.11.22. 18:59:42] [INIT][INFO]: Connected to database.
+    [2014.11.22. 19:02:35] [CLOSE] [INFO]: MainWindow closed.
+    
+
+    [2014.11.22. 19:06:09] [INIT][INFO]: Connected to database.
+    
+
+    [2014.11.22. 19:09:35] [INIT][INFO]: Connected to database.
+    [2014.11.22. 19:11:18] [CLOSE] [INFO]: MainWindow closed.
+    
+
+    [2014.11.22. 19:17:47] [INIT][INFO]: Connected to database.
+    [2014.11.22. 19:17:48] [CLOSE] [INFO]: MainWindow closed.
+    
+
+    [2014.11.22. 19:33:43] [INIT][INFO]: Connected to database.
+    [2014.11.22. 19:33:43] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.22. 19:33:43] [PROC][INFO]: Clipboard changed.
+    [2014.11.22. 19:33:43] [SEARCH][INFO]: Searching in database
+    [2014.11.22. 19:33:43] [SEARCH][INFO]: Searching in database
+    [2014.11.22. 19:33:43] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.22. 19:33:43] [INIT][INFO]: Keys registered
+    
+
+    [2014.11.22. 19:34:28] [INIT][INFO]: Connected to database.
+    [2014.11.22. 19:34:28] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.22. 19:34:28] [PROC][INFO]: Clipboard changed.
+    [2014.11.22. 19:34:28] [SEARCH][INFO]: Searching in database
+    [2014.11.22. 19:34:28] [SEARCH][INFO]: Searching in database
+    [2014.11.22. 19:34:28] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.22. 19:34:28] [INIT][INFO]: Keys registered
+    [2014.11.22. 19:34:33] [PROC][INFO]: Shoutcut pressed
+    [2014.11.22. 19:34:44] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 10:52:09] [INIT][INFO]: Connected to database.
+    [2014.11.23. 10:52:09] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 10:52:09] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 10:52:09] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 10:52:09] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 10:52:09] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 10:52:09] [INIT][INFO]: Keys registered
+    [2014.11.23. 10:52:16] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 10:52:40] [INIT][INFO]: Connected to database.
+    [2014.11.23. 10:52:40] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 10:52:40] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 10:52:40] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 10:52:40] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 10:52:40] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 10:52:40] [INIT][INFO]: Keys registered
+    [2014.11.23. 10:52:45] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 10:52:51] [INIT][INFO]: Connected to database.
+    [2014.11.23. 10:52:51] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 10:52:51] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 10:52:51] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 10:52:51] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 10:52:51] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 10:52:51] [INIT][INFO]: Keys registered
+    [2014.11.23. 10:53:05] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 11:29:21] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 11:29:21] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 11:29:21] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 11:29:21] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 11:29:21] [INIT][INFO]: Keys registered
+    [2014.11.23. 11:29:44] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 11:33:30] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 11:33:30] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 11:33:30] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 11:33:30] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 11:33:30] [INIT][INFO]: Keys registered
+    
+
+    [2014.11.23. 11:42:31] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 11:42:31] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 11:42:31] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 11:42:31] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 11:42:31] [INIT][INFO]: Keys registered
+    [2014.11.23. 11:42:35] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 11:42:37] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 11:42:37] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 11:42:37] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 11:42:37] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 11:42:37] [INIT][INFO]: Keys registered
+    [2014.11.23. 11:42:41] [PROC][INFO]: Shoutcut pressed
+    [2014.11.23. 11:42:47] [PROC][INFO]: Shoutcut pressed
+    [2014.11.23. 11:42:49] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 11:44:20] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 11:44:21] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 11:44:21] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 11:44:21] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 11:44:21] [INIT][INFO]: Keys registered
+    [2014.11.23. 11:44:24] [PROC][INFO]: Shoutcut pressed
+    [2014.11.23. 11:45:30] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 11:46:20] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 11:46:20] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 11:46:20] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 11:46:20] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 11:46:20] [INIT][INFO]: Keys registered
+    [2014.11.23. 11:46:24] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 11:46:44] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 11:46:44] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 11:46:44] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 11:46:44] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 11:46:44] [INIT][INFO]: Keys registered
+    [2014.11.23. 11:46:49] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 11:47:01] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 11:47:01] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 11:47:01] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 11:47:01] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 11:47:01] [INIT][INFO]: Keys registered
+    [2014.11.23. 11:47:30] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 11:47:48] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 11:47:48] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 11:47:48] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 11:47:48] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 11:47:48] [INIT][INFO]: Keys registered
+    [2014.11.23. 11:47:53] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 11:48:07] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 11:54:51] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 11:54:51] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 11:54:51] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 11:54:51] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 11:54:51] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 11:54:51] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 11:54:51] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 11:54:51] [INIT][INFO]: Keys registered
+    [2014.11.23. 11:54:53] [READ][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 11:54:56] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 14:15:45] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 14:15:45] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 14:15:45] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:15:45] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:15:45] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:15:45] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:15:45] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 14:15:45] [INIT][INFO]: Keys registered
+    [2014.11.23. 14:15:52] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 14:18:26] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 14:18:26] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 14:18:26] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:18:26] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:18:26] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:18:27] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:18:27] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 14:18:27] [INIT][INFO]: Keys registered
+    [2014.11.23. 14:18:32] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 14:20:14] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 14:20:14] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 14:20:14] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:20:14] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:20:14] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:20:14] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:20:14] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 14:20:14] [INIT][INFO]: Keys registered
+    [2014.11.23. 14:20:19] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 14:37:45] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 14:37:45] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 14:37:45] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:37:45] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:37:45] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:37:45] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:37:45] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 14:37:45] [INIT][INFO]: Keys registered
+    [2014.11.23. 14:37:50] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 14:38:39] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 14:38:39] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 14:38:39] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:38:39] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:38:39] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:38:39] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:38:39] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 14:38:39] [INIT][INFO]: Keys registered
+    [2014.11.23. 14:38:42] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 14:39:18] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 14:39:18] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 14:39:18] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:39:18] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:39:18] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:39:18] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:39:18] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 14:39:18] [INIT][INFO]: Keys registered
+    [2014.11.23. 14:39:22] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 14:40:28] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 14:40:28] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 14:40:29] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:40:29] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:40:29] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:40:29] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:40:29] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 14:40:29] [INIT][INFO]: Keys registered
+    [2014.11.23. 14:40:34] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 14:42:36] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 14:42:36] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 14:42:36] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:42:36] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:42:36] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:42:36] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:42:36] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 14:42:36] [INIT][INFO]: Keys registered
+    [2014.11.23. 14:42:43] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 14:44:43] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 14:44:43] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 14:44:43] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:44:43] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:44:43] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:44:43] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:44:43] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 14:44:43] [INIT][INFO]: Keys registered
+    [2014.11.23. 14:44:49] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 14:46:24] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 14:46:24] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 14:46:24] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:46:25] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:46:25] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:46:25] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:46:25] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 14:46:25] [INIT][INFO]: Keys registered
+    [2014.11.23. 14:46:31] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 14:48:51] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 14:48:51] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 14:48:51] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:48:51] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:48:51] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:48:51] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:48:51] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 14:48:51] [INIT][INFO]: Keys registered
+    [2014.11.23. 14:48:56] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 14:50:31] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 14:50:31] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 14:50:31] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:50:31] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:50:31] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:50:31] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:50:31] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 14:50:31] [INIT][INFO]: Keys registered
+    
+
+    [2014.11.23. 14:50:51] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 14:50:51] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 14:50:51] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:50:51] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:50:51] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:50:51] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:50:51] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 14:50:51] [INIT][INFO]: Keys registered
+    [2014.11.23. 14:50:56] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 14:54:26] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 14:54:26] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 14:54:26] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:54:26] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:54:26] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:54:26] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:54:26] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 14:54:26] [INIT][INFO]: Keys registered
+    [2014.11.23. 14:54:31] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 14:55:20] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 14:55:20] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 14:55:20] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:55:20] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:55:20] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 14:55:20] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 14:55:20] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 14:55:20] [INIT][INFO]: Keys registered
+    [2014.11.23. 14:55:26] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 15:03:08] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:03:08] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 15:03:08] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:03:08] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:03:08] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:03:08] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:03:08] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:03:08] [INIT][INFO]: Keys registered
+    [2014.11.23. 15:03:12] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 15:04:26] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:04:26] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 15:04:26] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:04:26] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:04:26] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:04:26] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:04:26] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:04:26] [INIT][INFO]: Keys registered
+    [2014.11.23. 15:04:31] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 15:06:44] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:06:44] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 15:06:44] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:06:44] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:06:44] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:06:44] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:06:44] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:06:44] [INIT][INFO]: Keys registered
+    [2014.11.23. 15:06:45] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 15:10:25] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:10:25] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 15:10:25] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:10:25] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:10:25] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:10:25] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:10:25] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:10:30] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 15:11:17] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:11:17] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 15:11:17] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:11:17] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:11:17] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:11:17] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:11:17] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:11:20] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 15:12:19] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:12:19] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 15:12:19] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:12:19] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:12:19] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:12:19] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:12:19] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:12:23] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 15:12:33] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 15:12:35] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:12:35] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 15:12:35] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:12:35] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:12:35] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:12:35] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:12:35] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:12:41] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 15:18:12] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:18:12] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 15:18:12] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:18:12] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:18:12] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:18:12] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:18:12] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:18:12] [INIT][INFO]: Keys registered
+    [2014.11.23. 15:18:15] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 15:18:22] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 15:21:11] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:21:11] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 15:21:11] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:21:11] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:21:11] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:21:11] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:21:11] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:21:11] [INIT][INFO]: Keys registered
+    
+
+    [2014.11.23. 15:22:12] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:22:12] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 15:22:12] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:22:13] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:22:13] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:22:13] [SEARCH][ERROR]: Unexpected exception has occured: No connection associated with this command
+    [2014.11.23. 15:22:13] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:22:13] [INIT][INFO]: Keys registered
+    [2014.11.23. 15:22:17] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 15:22:42] [PROC][INFO]: Clipboard changed.
+    [2014.11.23. 15:22:42] [SEARCH][INFO]: Searching in database
+    [2014.11.23. 15:22:42] [SEARCH][INFO]: Searching in database
+    
+
+    [2014.11.23. 15:29:40] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:29:40] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:29:40] [INIT][INFO]: Keys registered
+    [2014.11.23. 15:29:45] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 15:29:52] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 15:29:55] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 15:33:01] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:33:01] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:33:01] [INIT][INFO]: Keys registered
+    [2014.11.23. 15:33:05] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 15:33:19] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 15:34:42] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:34:42] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:34:42] [INIT][INFO]: Keys registered
+    [2014.11.23. 15:34:47] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 15:34:52] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 15:35:03] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:35:03] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:35:03] [INIT][INFO]: Keys registered
+    [2014.11.23. 15:35:07] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 15:36:47] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:36:47] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:36:47] [INIT][INFO]: Keys registered
+    [2014.11.23. 15:36:51] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 15:37:01] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 15:38:48] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:38:48] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:38:48] [INIT][INFO]: Keys registered
+    [2014.11.23. 15:38:51] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 15:38:55] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 15:41:12] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:41:12] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:41:12] [INIT][INFO]: Keys registered
+    [2014.11.23. 15:41:16] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 15:41:29] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 15:47:05] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:47:05] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:47:05] [INIT][INFO]: Keys registered
+    [2014.11.23. 15:47:10] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 15:47:18] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 15:47:20] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    SQLite error (1): no such column: True
+    [2014.11.23. 15:47:22] [INSERT][ERROR]: SQL exception has occured: SQL logic error or missing database
+no such column: True
+    [2014.11.23. 15:47:25] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 15:47:30] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    SQLite error (1): no such column: False
+    [2014.11.23. 15:47:33] [INSERT][ERROR]: SQL exception has occured: SQL logic error or missing database
+no such column: False
+    SQLite error (1): no such column: False
+    [2014.11.23. 15:47:35] [INSERT][ERROR]: SQL exception has occured: SQL logic error or missing database
+no such column: False
+    SQLite error (1): no such column: True
+    [2014.11.23. 15:47:36] [INSERT][ERROR]: SQL exception has occured: SQL logic error or missing database
+no such column: True
+    [2014.11.23. 15:47:38] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 15:47:40] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    
+
+    [2014.11.23. 15:54:04] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:54:04] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:54:04] [INIT][INFO]: Keys registered
+    [2014.11.23. 15:54:08] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 15:54:17] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    SQLite error (1): no such column: True
+    
+
+    [2014.11.23. 15:54:57] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 15:54:57] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 15:54:57] [INIT][INFO]: Keys registered
+    [2014.11.23. 15:55:00] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 15:55:04] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    SQLite error (1): no such column: True
+    
+
+    [2014.11.23. 16:00:08] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 16:00:08] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 16:00:08] [INIT][INFO]: Keys registered
+    [2014.11.23. 16:00:12] [OPEN][INFO]: Connected to database.
+    SQLite error (1): no such column: True
+    [2014.11.23. 16:00:15] [INSERT][ERROR]: SQL exception has occured: SQL logic error or missing database
+no such column: True
+    [2014.11.23. 16:00:17] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 16:00:23] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 16:00:54] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 16:00:54] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 16:00:54] [INIT][INFO]: Keys registered
+    [2014.11.23. 16:00:59] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 16:01:04] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    
+
+    [2014.11.23. 16:02:14] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 16:02:14] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 16:02:14] [INIT][INFO]: Keys registered
+    [2014.11.23. 16:02:17] [OPEN][INFO]: Connected to database.
+    SQLite error (1): no such column: True
+    [2014.11.23. 16:02:24] [INSERT][ERROR]: SQL exception has occured: SQL logic error or missing database
+no such column: True
+    [2014.11.23. 16:02:27] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    
+
+    [2014.11.23. 16:04:45] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 16:04:45] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 16:04:45] [INIT][INFO]: Keys registered
+    [2014.11.23. 16:04:49] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 16:04:56] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    
+
+    [2014.11.23. 16:05:44] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 16:05:44] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 16:05:44] [INIT][INFO]: Keys registered
+    [2014.11.23. 16:05:48] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 16:06:00] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    
+
+    [2014.11.23. 16:06:35] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 16:06:35] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 16:06:35] [INIT][INFO]: Keys registered
+    [2014.11.23. 16:06:39] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 16:06:48] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    
+
+    [2014.11.23. 16:07:18] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 16:07:18] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 16:07:18] [INIT][INFO]: Keys registered
+    [2014.11.23. 16:07:23] [OPEN][INFO]: Connected to database.
+    
+
+    [2014.11.23. 19:15:06] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 19:15:06] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 19:15:06] [INIT][INFO]: Keys registered
+    [2014.11.23. 19:15:12] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 19:15:12] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:15:18] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    SQLite error (1): no such column: False
+    [2014.11.23. 19:15:18] [DELETE][ERROR]: Unexpected exception has occured: SQL logic error or missing database
+no such column: False
+    [2014.11.23. 19:15:19] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:15:26] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 19:15:27] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    SQLite error (1): no such column: False
+    [2014.11.23. 19:15:27] [DELETE][ERROR]: Unexpected exception has occured: SQL logic error or missing database
+no such column: False
+    SQLite error (1): no such column: False
+    [2014.11.23. 19:15:28] [DELETE][ERROR]: Unexpected exception has occured: SQL logic error or missing database
+no such column: False
+    [2014.11.23. 19:15:28] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:15:42] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 19:15:54] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 19:15:54] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 19:15:54] [INIT][INFO]: Keys registered
+    [2014.11.23. 19:15:59] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 19:15:59] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:16:02] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    SQLite error (1): no such column: False
+    [2014.11.23. 19:16:02] [DELETE][ERROR]: Unexpected exception has occured: SQL logic error or missing database
+no such column: False
+    [2014.11.23. 19:16:03] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:16:06] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:16:09] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 19:16:12] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    SQLite error (1): no such column: False
+    [2014.11.23. 19:16:12] [DELETE][ERROR]: Unexpected exception has occured: SQL logic error or missing database
+no such column: False
+    [2014.11.23. 19:16:13] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    
+
+    [2014.11.23. 19:16:53] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 19:16:53] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 19:16:53] [INIT][INFO]: Keys registered
+    [2014.11.23. 19:16:57] [OPEN][INFO]: Connected to database.
+    SQLite error (1): no such table: question
+    [2014.11.23. 19:16:57] [READ][ERROR]: SQLite exception: SQL logic error or missing database
+no such table: question
+    SQLite error (1): no such table: question
+    [2014.11.23. 19:16:59] [READ][ERROR]: SQLite exception: SQL logic error or missing database
+no such table: question
+    [2014.11.23. 19:17:03] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 19:17:03] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:17:08] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 19:17:26] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 19:17:26] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 19:17:26] [INIT][INFO]: Keys registered
+    [2014.11.23. 19:17:29] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 19:17:29] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:17:35] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 19:17:35] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:17:36] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:17:38] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 19:17:40] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 19:17:40] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:17:45] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:17:47] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 19:19:16] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 19:19:18] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 19:19:18] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 19:19:18] [INIT][INFO]: Keys registered
+    [2014.11.23. 19:19:24] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 19:19:24] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:19:28] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 19:19:28] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:19:30] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:19:30] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:19:36] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 19:19:36] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:19:40] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:19:41] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:19:41] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:19:41] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:19:42] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:19:43] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 19:19:44] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 19:19:47] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:19:50] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 19:19:51] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 19:19:51] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:19:52] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    
+
+    [2014.11.23. 19:20:33] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 19:20:33] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 19:20:33] [INIT][INFO]: Keys registered
+    [2014.11.23. 19:20:37] [OPEN][INFO]: Connected to database.
+    [2014.11.23. 19:20:37] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:20:40] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:20:43] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:20:46] [INSERT][ERROR]: Unexpected exception has occured: Object reference not set to an instance of an object.
+    [2014.11.23. 19:20:46] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    [2014.11.23. 19:20:47] [DELETE][ERROR]: Unexpected exception has occured: Unable to cast object of type 'MS.Internal.NamedObject' to type 'System.Data.DataRowView'.
+    
+
+    [2014.11.23. 19:29:01] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 19:29:01] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 19:29:01] [INIT][INFO]: Keys registered
+    
+
+    [2014.11.23. 19:37:06] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 19:37:06] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 19:37:06] [INIT][INFO]: Keys registered
+    [2014.11.23. 19:37:29] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 19:40:41] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 19:40:41] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 19:40:41] [INIT][INFO]: Keys registered
+    
+
+    [2014.11.23. 19:41:04] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 19:41:04] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 19:41:04] [INIT][INFO]: Keys registered
+    [2014.11.23. 19:41:10] [PROC][INFO]: Shoutcut pressed
+    [2014.11.23. 19:41:19] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 19:42:24] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 19:42:24] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 19:42:24] [INIT][INFO]: Keys registered
+    [2014.11.23. 19:42:32] [CLOSE][INFO]: MainWindow closed.
+    
+
+    [2014.11.23. 19:43:02] [LOADING][INFO]: MaindWindows is starting
+    [2014.11.23. 19:43:02] [INIT][INFO]: WinApi init ended, registering keys
+    [2014.11.23. 19:43:02] [INIT][INFO]: Keys registered
+    [2014.11.23. 19:43:03] [CLOSE][INFO]: MainWindow closed.
